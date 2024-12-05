@@ -1,0 +1,54 @@
+
+[font]
+size = 9
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[colors.primary]
+background = '#10100E'
+foreground = '#C6C6C4'
+
+[colors.normal]
+black   = '#1C1C1C'  # Темный уголь
+red     = '#8B0000'  # Темно-красный (кровь)
+green   = '#4B8B3B'  # Мутный зеленый (растительность)
+yellow  = '#BEBF00'  # Угольно-желтый (ржавчина)
+blue    = '#2F4F4F'  # Темно-синий (разрушенные здания)
+magenta = '#6A5ACD'  # Темно-фиолетовый (разрушенные технологии)
+cyan    = '#4682B4'  # Стальной синий (металлические обломки)
+white   = '#D3D3D3'  # Светло-серый (пыль и руины)
+
+# Яркие цвета
+[colors.bright]
+black   = '#4B4B4B'  # Серый (потерянные надежды)
+red     = '#FF4500'  # Оранжево-красный (пламя)
+green   = '#6B8E23'  # Оливковый (выжженная земля)
+yellow  = '#FFD700'  # Золотистый (песок)
+blue    = '#4682B4'  # Стальной синий (металлические обломки)
+magenta = '#FF69B4'  # Ярко-розовый (разрушенные технологии)
+cyan    = '#00CED1'  # Темно-циановый (разрушенные города)
+white   = '#A9A9A9'  # Темно-серый
+
+[scrolling]
+history = 10000
+
+[window]
+opacity = 1.0
+
+[window.padding]
+x = 0
+y = 0
